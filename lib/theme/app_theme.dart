@@ -13,7 +13,7 @@ class AppTheme {
         navigationBarTheme: const NavigationBarThemeData(
           height: 64,
         ),
-        cardTheme: CardThemeData(
+        cardTheme: CardTheme(
           elevation: 0,
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(18),
@@ -32,7 +32,7 @@ class AppTheme {
         navigationBarTheme: const NavigationBarThemeData(
           height: 64,
         ),
-        cardTheme: CardThemeData(
+        cardTheme: CardTheme(
           elevation: 0,
           color: const Color(0xFF1E1B26),
           shape: RoundedRectangleBorder(
